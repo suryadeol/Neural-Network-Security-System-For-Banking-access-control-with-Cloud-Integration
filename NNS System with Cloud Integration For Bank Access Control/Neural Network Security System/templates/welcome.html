@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom, #0c2637, #113951, #115272);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            color: #fff;
+        }
+
+        .title {
+            font-size: 28px;
+            font-weight: bold;
+            margin: 20px;
+        }
+
+        .guide {
+            text-align: center;
+            margin: 20px;
+        }
+
+        .guide-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 2px solid #fff;
+        }
+
+        .guide-name {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        .team-members {
+            display: flex;
+            justify-content: space-around; /* Horizontal alignment */
+            width: 100%;
+            margin: 20px;
+        }
+
+        .team-member {
+            text-align: center;
+        }
+
+        .member-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 2px solid #fff;
+        }
+
+        .member-name {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        .description {
+            font-size: 16px;
+            line-height:26px;
+            /*font-weight: bold;*/
+        }
+
+        .button-container {
+            margin: 20px;
+        }
+
+        .button {
+            padding: 15px 40px;
+            font-size: 24px;
+            background: #4CAF50;
+            border: none;
+            border-radius: 10px;
+            color: #fff;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+        }
+
+        .button:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 10px rgba(0, 128, 0, 0.5);
+        }
+
+        .button:focus {
+            outline: none;
+        }
+    </style>
+</head>
+
+<body>
+<marquee behavior="scroll" direction="left">
+  <span style="font-size: 24px; color: #FFD700;">❖❖❖</span>
+  A Hearty Welcome to the Secure Security System - Redefining Banking Security With Intelligent System
+  <span style="font-size: 24px; color: #FFD700;">❖❖❖</span>
+</marquee>
+
+
+    <div class="title">"Neural Network Security System with Cloud Integration for Banking Access Control"</div>
+
+    <!-- Project Guide -->
+    <div class="guide">
+        <img class="guide-pic" src="static/images/guide.jpg" alt="Project Guide">
+        <div class="guide-name">Project Guide</div>
+        <div class="description">Dr. V. Suryanarayana</div>
+        <div class="description">Professor & Dean-Industrial Relations</div>
+        <div class="description">Department of AI&DS</div>
+    </div>
+
+    <!-- Team Members -->
+    <div class="team-members">
+        <div class="team-member">
+            <img class="member-pic" src="static/images/lead.jpg" alt="Team Member 1">
+            <div class="member-name">Team Lead</div>
+            <div class="description">U. Surya Venkata Sekhar (20761A5459)</div>
+            <div class="description">Department of AI&DS</div>
+        </div>
+
+        <div class="team-member">
+            <img class="member-pic" src="static/images/member2.jpeg" alt="Team Member 2">
+            <div class="member-name">Team Member 1</div>
+            <div class="description">K. Hema Chandana (20761A5420)</div>
+            <div class="description">Department of AI&DS</div>
+        </div>
+
+        <div class="team-member">
+            <img class="member-pic" src="static/images/member3.jpeg" alt="Team Member 2">
+            <div class="member-name">Team Member 2</div>
+            <div class="description">U. Venu Gopala Rao (20761A5458)</div>
+            <div class="description">Department of AI&DS</div>
+        </div>
+    </div>
+
+    <!-- Button to Continue -->
+    <div class="button-container">
+        <form action="/start" method="post">
+            <button class="button">START</button>
+        </form>
+    </div>
+</body>
+
+</html>

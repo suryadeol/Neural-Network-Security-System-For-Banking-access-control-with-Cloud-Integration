@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "home-survalince-system",
+  "private_key_id": "cd00abeee98fb54bef24910235ba54be61135320",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxMmRN2CejVh6L\nLmMFzRCGGoXqLapzeQQqNdkP3qmRYwerGBt+QzRu/j8w1zDOooMqXJ4RPXBGb+Z7\nE1WUilYW2HNSSmaQdWVUdUvQfnOFZTCL/jIwfiLZ2OCI6Lk8QJsnNT+OfDa9m2pk\nFKHNoyBkPyEohz1Bf0ka2fSN9vx9+UpNaAFd50AhnmW4U6+R2dUgqmNO01xdcd1S\n1u6nLk3VjoA9p4ItHpfkv0fuXitnGZPiJBXrvkfmHas5C6+qdM4TFfNtl0/cxbR+\nK1APe8a1mtCk/PX9yxK79q5wDNMG2AzxOS0sTixrGlDU1l5/eSeRHT3mDMAlNhFI\nY/LrqAJ9AgMBAAECggEAChssbL6T2povKXHGIGYZPSU7WzaSn8gATqx27d1MiZT2\nq0qVTFMQjV4F08wQdXgFuu6qiNpkK+9gXuPOgCzTsp1bJ6WKap8goctQY+oIeRxm\nTldWTwXZ+/rEXbgymr2yQpBOm2/E82jhqlPa+7zMDKdAgmw4OthUfdWIE7K3naeR\njIKH+RvYhjqwsD7xYD2fdVvl+LdS2Gt8xUhs2rSWizgUfmW6KzkPOjdG167qlekH\necM34MBr66V7vSPS2fhqfPpbokiORFin4RiyALw3dkOGEU/JTivA+J8NnuHz7v+Y\nxTru4p3yZ8MxWRnMckPpL8Tfoudby+9bKYoIdOMwGQKBgQD53oU9p69+Y4jdbw27\nxsi02nsU+WqWLi1YlHh5lYFK0LqeVQZ7NvSjviHSjH6xT3+6DU9rk2b9CkCQ1TBR\nB0xYkVveg/k8xMYYEIw+i7aEiG+fa2jUBZ/aze2wNgUHkGrxtjgwO3J0E5F6xSoV\nmFBBNbTN9L3yxjBEFm4ZVT5nowKBgQD3HWX7fqvzhLrUpQrhyIzFwL6Qd5iMCQOF\nmqUcNkXJbEA9CiuCTg4hVwu9czxOMtvpmybsuaQ8H2pOKnhdKjfkUPvXsjkm9cqj\nKeKl/AMkfFHB1adHowwpKkHWtGIl/XZDnRsUqY4/LLATAQXTDwcEOCmodWkG3VSR\nohf4o68PXwKBgQDBlkQWs48E1erY3EyAmg8wB0Fqy55nwlkBku4QDOPB6htbxjYi\nSj6Ziho8PPt/Nj+YDu3kQ6x8CXBihblMXeIpkFzj9c2o5i8vv8pYPvhmkCojEh2C\nfuUNqZQofIHDDYG9yVaZD8Wp5utEefMUDhDHpOty0dZEfIYyiko8uE2EDwKBgDT3\nQSeho/uDJIR1h5qTYND2GiJe7/x75hxZ5C/i1hxxLmem6WJ5ln/A54xIydE9B3PP\nxI0S0Uftt9xfMANQDEDMtt4pniRipHdKgADxvj6wwtlYEQ3CvdWI8Cmz6iGYbSPa\n5bYNDacuzeKU4om1e9yEqTEpUUSeZgT9CERL2TbjAoGBAKWcaQCzDKXvBKgDMWQw\n2F6LVrHyCdoWKJ3MhCcH+9qoUsRUXUN3GmhWWuLwTvRqT1wEn/tt3GpA9ksZLzdw\n54BAKjNRbRCxjjSvYcSJkM67ENXTlzT5qjAyGtiaBoj7CvDxJbHDw59uMmuwJoW9\n/Y3Bf3tgZ0SM5wHUMUTbg1lk\n-----END PRIVATE KEY-----\n",
+  "client_email": "surya-474@home-survalince-system.iam.gserviceaccount.com",
+  "client_id": "104736398217418698481",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/surya-474%40home-survalince-system.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

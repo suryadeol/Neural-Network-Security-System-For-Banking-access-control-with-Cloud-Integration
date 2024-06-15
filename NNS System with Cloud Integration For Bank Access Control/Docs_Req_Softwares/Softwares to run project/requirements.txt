@@ -1,0 +1,13 @@
+jupyter notebook==1.0.0
+NumPy==1.26.4
+Pandas==1.4.3
+Matplotlib==3.5.3
+TensorFlow==2.15.0
+SciPy==1.11.1
+OpenCV-Python==4.8.1.78
+Keras==2.15.0
+TensorFlow Hub==0.14.0
+Flask==3.0.0
+Twilio==8.5.0
+scikit-learn==1.1.2
+
